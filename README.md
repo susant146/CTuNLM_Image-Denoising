@@ -1,5 +1,5 @@
 # CTuNLM_Image-Denoising
-Multi-scale based Approach for Denoising Real-World noisy image using Curvelet Thresholding: Scope &amp; Beyond [**The code implemented and tested in MATLAB@2022 will be available Soon....**]
+Multi-scale based Approach for Denoising Real-World noisy image using Curvelet Thresholding: Scope &amp; Beyond [**The code implemented and tested in MATLAB@2022. The Supporting files for the CTuMultiscaleDenoise_NLM.m will be uploaded soon...**]
 <br /> **Cite the follwoing papers if your using our code.** <br />
 ## Cite 
 1. S. K. Panigrahi, S. K. Tripathy, A. Bhowmick, S. K. Satapathy, P. Barsocchi and A. K. Bhoi, "Multi-Scale Based Approach for Denoising Real-World Noisy Image Using Curvelet Thresholding: Scope and Beyond," in IEEE Access, vol. 12, pp. 25090-25105, 2024, doi: 10.1109/ACCESS.2024.3364397.. 

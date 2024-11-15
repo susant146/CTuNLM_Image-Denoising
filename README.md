@@ -2,7 +2,7 @@
 Multi-scale based Approach for Denoising Real-World noisy image using Curvelet Thresholding: Scope &amp; Beyond [**The code implemented and tested in MATLAB@2022 will be available Soon....**]
 <br /> **Cite the follwoing papers if your using our code.** <br />
 ## Cite 
-1. S. K. Panigrahi, S. K. Tripathy, A. Bhowmick, S. K. Satpathy, P. BARSOCCHI and A. K. Bhoi, “Multi-scale based Approach for Denoising Real-World noisy image using Curvelet Thresholding: Scope & Beyond,” IEEE Access, 2023. [**Under Review**]
+1. S. K. Panigrahi, S. K. Tripathy, A. Bhowmick, S. K. Satapathy, P. Barsocchi and A. K. Bhoi, "Multi-Scale Based Approach for Denoising Real-World Noisy Image Using Curvelet Thresholding: Scope and Beyond," in IEEE Access, vol. 12, pp. 25090-25105, 2024, doi: 10.1109/ACCESS.2024.3364397.. 
 1. S. K. Panigrahi, S. Gupta, and P. K. Sahu, “Curvelet-based multiscale denoising using non-local means & guided image filter,” IET Image Processing, vol. 12, no. 6, pp. 909–918, 2018.
 1. S. K. Panigrahi, “Image denoising by edge preserved curvelet thresholding,” Ph.D. dissertation, 2019.
 
